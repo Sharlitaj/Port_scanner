@@ -1,0 +1,4 @@
+2024-08-12 08:00:00 INFO Starting log analysis
+2024-08-12 08:05:00 WARNING Disk space running low
+2024-08-12 08:10:00 ERROR Failed to connect to database
+2024-08-12 08:15:00 INFO Log analysis completed
